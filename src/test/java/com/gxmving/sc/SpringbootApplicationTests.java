@@ -1,4 +1,4 @@
-package com.gxm.springboot;
+package com.gxmving.sc;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
